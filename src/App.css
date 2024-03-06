@@ -1,0 +1,17 @@
+body {
+    background-image: url("/home/user-21-c1/Documents/Projet_Kadea/PROJET_KADEA/src/images/IMG_20240303_142505.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.lemon-regular {
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: italic;
+}
+
+.imgcentre {
+    background-image: url("src/images/6242c089434165463e82f7a2_panneau-solaire-transparent.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
